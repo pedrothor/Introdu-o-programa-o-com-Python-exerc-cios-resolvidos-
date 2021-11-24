@@ -33,7 +33,7 @@ print(nome)"""
 b=5
 r=3*a+2*b
 print(r)
-
+ 
 ou 
 
 print(f"2a x 3b = {r}") # essa metodologia será ensinada mais a frente do livro."""
